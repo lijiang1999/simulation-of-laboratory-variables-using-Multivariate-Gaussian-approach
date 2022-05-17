@@ -8,5 +8,8 @@ Simulation of quantitative laboratory variables using multivariate Gaussian appr
 4. put the mask of missing from the realworld dataframe on simulated dataframe
 5. comparing the distribution and correlation of real world and simulated data with the same mask
 
-R code deposit at "05022022_simulation_gnesis.R"
-simulated data with mask on deposit at "dffinal_repeat_select_widformat_t0_masked_test_1st_version2.RData" in version 2.
+## Files included
+1. R code deposit at "05022022_simulation_gnesis.R"
+2. simulated data with mask on deposit at "dffinal_repeat_select_widformat_t0_masked_test_1st_version2.RData" in version 2. 
+3. simulated data without mask on deposit at "dffinal_repeat_select_widformat_t0.RData" in version 2.
+4. The correponding .csv file are also available with the same prefix.
